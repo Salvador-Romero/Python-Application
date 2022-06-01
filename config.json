@@ -1,0 +1,7 @@
+{
+    "smtp":"smtp.gmail.com",
+    "mail":"pruebapythonchallenge@gmail.com",
+    "nombre":"UnserName",
+    "puerto":"587",
+    "password":"Password1*"
+}
