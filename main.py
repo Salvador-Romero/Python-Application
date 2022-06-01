@@ -13,4 +13,4 @@ def read_root():
     mMail.destinatarios.append("rolfeador@gmail.com")
     mMail.enviarCorreo(msg)
 
-    return msg.get_correo()
+    return get_correo()
